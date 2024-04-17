@@ -1,8 +1,32 @@
 # Sonoma---Opencore-EFI
 
+###感谢 Acidanthera 项目提供的驱动，以及一众如黑果小兵，大头蔡cass，小明和他的女朋友等大佬提供的教程
 <pre>
-  中文简介将在稍后更新。坐和放宽，很快就完成。
+  Sroll down for English Version.
+  黑苹果 Sonoma EFI
+  OpenCore 版本: 0.9.8 （2024年三月最后更新）
+  电脑配置：    处理器 i7 - 6700
+              显卡 HD530 + AsRock 幻影游戏 Radeon RX 6950XT
+              内存条 金士顿DDR4 2133 Mhz
+              主板 ASUS B250B-Kylin
+              硬盘 西数 SN580 SSD 2TB +希捷 1TB (HDD) +东芝 2TB (HDD)
+              网卡 RTL8111 + Fenvi T919 + Broadcom BCM4360
+              声卡 ALC887
+  能用的功能：Airplay，随航，接力，隔空投送，睡眠。
+  不能用的：还没发现有
+  EFI的特别之处：定制了ALC，修改了887声卡驱动参数实现更好地使用效果
+               定制了USB驱动，突破15个端口的限制
+  ⚠️⚠️重要！！！
+        如果你没有机械硬盘，请删除CtlnaAHCIPort.kext
+        使用EFI前请重新生成新的序列号
 </pre>
+
+<pre>
+ScreenShot:
+<img width="523" alt="image" src="https://github.com/chunma26/Sonoma---Opencore-EFI/assets/56785635/2abca978-c731-4968-b275-e63c60519c97"> 
+<img width="924" alt="image" src="https://github.com/chunma26/Sonoma---Opencore-EFI/assets/56785635/83ffedfa-9bbc-4f6b-9f35-3787874b2969">
+</pre>
+
 <pre>
 
 Hackintosh EFI for Sonoma
