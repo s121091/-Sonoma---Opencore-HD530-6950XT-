@@ -22,7 +22,7 @@
 </pre>
 
 <pre>
-ScreenShot:
+截图:
 <img width="523" alt="image" src="https://github.com/chunma26/Sonoma---Opencore-EFI/assets/56785635/2abca978-c731-4968-b275-e63c60519c97"> 
 <img width="924" alt="image" src="https://github.com/chunma26/Sonoma---Opencore-EFI/assets/56785635/83ffedfa-9bbc-4f6b-9f35-3787874b2969">
 </pre>
