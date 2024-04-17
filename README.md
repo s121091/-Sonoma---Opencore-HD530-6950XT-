@@ -6,7 +6,7 @@
 <pre>
 
 Hackintosh EFI for Sonoma
-Version of Opencore used : 0.9.8 (Lasted on March 2024)
+Version of Opencore used : 0.9.8 (Last edited on March 2024)
 
 My Computer Configuration :    CPU      i7-6700
                                GPU      HD530 + AsRock Phantom Gaming Radeon RX 6950XT
