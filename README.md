@@ -4,7 +4,7 @@
 <pre>
   Sroll down for English Version.
   黑苹果 Sonoma EFI
-  OpenCore 版本: 0.9.8 （2024年三月最后更新）
+  OpenCore 版本: 1.0.2 (Sequoia) & 0.9.8 (Sonoma) （2024年11月最后更新）
   电脑配置：    处理器 i7 - 6700
               显卡 HD530 + AsRock 幻影游戏 Radeon RX 6950XT
               内存条 金士顿DDR4 2133 Mhz
@@ -30,7 +30,7 @@
 <pre>
 
 Hackintosh EFI for Sonoma
-Version of Opencore used : 0.9.8 (Last edited on March 2024)
+Version of Opencore used : 1.0.2 (Sequoia) & 0.9.8 (Sonoma) (Last edited on November 2024)
 
 My Computer Configuration :    CPU      i7-6700
                                GPU      HD530 + AsRock Phantom Gaming Radeon RX 6950XT
