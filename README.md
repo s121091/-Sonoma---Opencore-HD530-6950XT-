@@ -8,7 +8,7 @@
   电脑配置：    处理器 i7 - 6700
               显卡 HD530 + AsRock 幻影游戏 Radeon RX 6950XT
               内存条 金士顿DDR4 2133 Mhz
-              主板 ASUS B250B-Kylin
+              主板 ASUS B250M-Kylin
               硬盘 西数 SN580 SSD 2TB +希捷 1TB (HDD) +东芝 2TB (HDD)
               网卡 RTL8111 + Fenvi T919 + Broadcom BCM4360
               声卡 ALC887
